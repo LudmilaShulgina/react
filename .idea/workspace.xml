@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00f439d1-11ea-48ee-8423-4e9bab497820" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Менеджеры_состояний.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Введение.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Компоненты.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_CSS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Props&amp;State.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_Жизненный_цикл.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Роутинг.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_События.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_Валидация.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_Context&amp;API.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 25 87296d1addb941e8ae74a417dbdba833/Untitled 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 25 87296d1addb941e8ae74a417dbdba833/Untitled 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 25 87296d1addb941e8ae74a417dbdba833/Untitled 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 25 87296d1addb941e8ae74a417dbdba833/Untitled 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 25 87296d1addb941e8ae74a417dbdba833/Untitled 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 25 87296d1addb941e8ae74a417dbdba833/Untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 26 4d6e2ebe5f9f4a898ab45ee3bd30a2cc/Card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 26 4d6e2ebe5f9f4a898ab45ee3bd30a2cc/Frame_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 26 4d6e2ebe5f9f4a898ab45ee3bd30a2cc/Untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 27 641ece28ad83439eaf0175509a0061c6/14902521821100182833.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 27 641ece28ad83439eaf0175509a0061c6/Frame_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 27 641ece28ad83439eaf0175509a0061c6/Untitled 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 27 641ece28ad83439eaf0175509a0061c6/Untitled 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 27 641ece28ad83439eaf0175509a0061c6/Untitled 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 27 641ece28ad83439eaf0175509a0061c6/Untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 28 bd116d6dbc2146aa8b8d4be66cd641a1/Eb6SvRRWsAAc111xa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 28 bd116d6dbc2146aa8b8d4be66cd641a1/Untitled 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 28 bd116d6dbc2146aa8b8d4be66cd641a1/Untitled 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 28 bd116d6dbc2146aa8b8d4be66cd641a1/Untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 29 92abc38c85164ee98acfb6e1e8a119dd/1ddd475e456e073bbb73e2b9f7a66af5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 29 92abc38c85164ee98acfb6e1e8a119dd/Frame_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 29 92abc38c85164ee98acfb6e1e8a119dd/Untitled 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 29 92abc38c85164ee98acfb6e1e8a119dd/Untitled 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 29 92abc38c85164ee98acfb6e1e8a119dd/Untitled 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 29 92abc38c85164ee98acfb6e1e8a119dd/Untitled 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 29 92abc38c85164ee98acfb6e1e8a119dd/Untitled 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 29 92abc38c85164ee98acfb6e1e8a119dd/Untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 33 3c57a5ddf7ed4a9da5686829d1b1afd9/Frame_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 33 3c57a5ddf7ed4a9da5686829d1b1afd9/Untitled 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 33 3c57a5ddf7ed4a9da5686829d1b1afd9/Untitled 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 33 3c57a5ddf7ed4a9da5686829d1b1afd9/Untitled 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 33 3c57a5ddf7ed4a9da5686829d1b1afd9/Untitled 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 33 3c57a5ddf7ed4a9da5686829d1b1afd9/Untitled 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 33 3c57a5ddf7ed4a9da5686829d1b1afd9/Untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 34 89a6f62443924669bb3bd54943764c3e/morpheus-red-pill-blue-pill_1024x1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 35 163350838b8a4bbe97777c3f3fa5ac51/d0202a511b6d6f084a55b06e4604baf7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 36 7f1db567b9524b51983345b16418b311/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 36 7f1db567b9524b51983345b16418b311/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 36 7f1db567b9524b51983345b16418b311/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 36 7f1db567b9524b51983345b16418b311/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 36 7f1db567b9524b51983345b16418b311/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 36 7f1db567b9524b51983345b16418b311/Untitled 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 36 7f1db567b9524b51983345b16418b311/Untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 36 7f1db567b9524b51983345b16418b311/bad-server-status.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 37 9b25907ea1dd45d2bbbc52c93d1ed934/6ad0076cc62b3ea56bb6caffff1f9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Неделя 37 9b25907ea1dd45d2bbbc52c93d1ed934/Untitled.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="29DLRX60EPT5FdxnrKHt1gDC7JB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Projects/web_page" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00f439d1-11ea-48ee-8423-4e9bab497820" name="Default Changelist" comment="" />
+      <created>1652642702373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652642702373</updated>
+      <workItem from="1652642703453" duration="1310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
